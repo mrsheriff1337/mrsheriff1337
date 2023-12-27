@@ -1,7 +1,7 @@
 # Hi 👋 Mr Sheriff is here
 ### A MERN Stack Developer
 * 💻  Check out my [Portfolio](https://www.github.com/mrsheriff1337)
-* 🎯  Currently advancing my skills
+* 🎯  Currently pushing the boundaries of my abilities.
 * 🤝  Let me know if there's anything to help with
 
 ## Skills
