@@ -6,9 +6,9 @@ With a love for clean code and a knack for problem-solving, I orchestrate magic 
 
 ### 🌟 Highlights
 
-**MERN Aficionado:** Proficient in MongoDB, Express, React, and Node.js — turning concepts into robust, scalable applications.
-**UI/UX Enthusiast:** Creating visually stunning interfaces that blend form and function seamlessly.
-**Problem Solver Extraordinaire:** Tackling challenges with creative solutions and a tenacious spirit.
+**MERN Aficionado:** Proficient in MongoDB, Express, React, and Node.js — turning concepts into robust, scalable applications. </br>
+**UI/UX Enthusiast:** Creating visually stunning interfaces that blend form and function seamlessly. </br>
+**Problem Solver Extraordinaire:** Tackling challenges with creative solutions and a tenacious spirit. </br>
 
 ## 🔭 Currently 
 Crafting cutting-edge projects and seeking opportunities to collaborate on innovative ventures that push the boundaries of tech.
