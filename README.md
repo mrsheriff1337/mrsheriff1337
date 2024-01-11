@@ -1,4 +1,4 @@
-# 🚀 Full-Stack Architect | MERN Magician | Code Whisperer 🌟
+# 🚀 Full-Stack Developer | Sheriff of the MERN Frontiers 🌟
 
 Welcome to my code haven! 👋 I'm **MR. Sheriff**, a passionate **MERN Stack developer** on a mission to craft digital experiences that transcend expectations. 🌐✨
 
